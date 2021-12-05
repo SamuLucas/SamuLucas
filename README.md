@@ -21,7 +21,7 @@
   <img align="right" height="210" style="border-radius:50px" src="https://user-images.githubusercontent.com/92492455/144287560-7b25c5eb-fb9b-4b45-aef2-7e3e2817f0f6.gif" alt="emoji-sam">
 </div>
   
-  ## Contate-me!Vamos nos conhecer e trocar experiências!
+  ## Contate-me!Vamos trocar experiências e evoluir juntos!
   
 <div> 
   <a href="https://www.instagram.com/samuel.lucas.37051579/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
